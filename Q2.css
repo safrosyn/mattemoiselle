@@ -1,0 +1,129 @@
+body{font-family: Book Antiqua; color:deeppink;}
+
+
+em{background-color:aquamarine}
+ 
+.best{padding-left:9em;
+      color:deeppink;
+      font-size:30px}
+
+.abtus{font-size:30px;
+       color:deeppink;
+       padding-left:14em}
+
+.openingline{font-family:Arial;
+             padding-left:30em; 
+             background-color:aquamarine; 
+             position:relative;}
+
+.logo{padding-left:27em}
+
+.footer{padding-left:15em; 
+        align-content: center;
+        }
+
+.spc{padding-left:30em; 
+    font-family:Book Antiqua}
+
+.bestsellers{padding-left:15em}
+
+.bundles{padding-left:20em; 
+         padding-top:2em}
+
+.selb{padding-left:22em}
+.contactform{position:relative; 
+           width:500px;
+	   left: 490px;
+	   padding-left: 30px;
+	   padding-bottom:10px;
+           padding-right: 30px;
+           background: rgba(127,255,212, 0.6);
+	   }
+
+
+
+
+.para{padding-left:32em; 
+     padding-right:21em;
+     text-align: justify;
+     text-justify: inter-word;}
+
+
+.side{height: 100%; 
+      width: 190px; 
+      position: fixed; 
+      z-index: 1; 
+      top: 0; 
+      left: 0;
+      background-image:url(bg.jpg);
+      overflow-x: hidden; 
+      padding-top: 20px;
+      font-family: Book Antiqua;
+      color:deeppink;
+} 
+
+
+.side a {
+    padding: 10px 30px 9px 30px;
+    font-size: 20px;
+    color: deeppink;
+    display: block;
+    background: rgba(127,255,212, 0.6);
+    text-decoration: none;
+}
+
+.side a:hover {
+    background-color: deeppink;
+    color:aquamarine;
+}
+
+
+.b1{background-color:aquamarine;
+  display: inline-block;
+  padding: 9px 19px;
+  font-size: 12px;
+  cursor: pointer;
+  text-align: center;
+  
+  outline: none;
+  color: deeppink;
+  border: none;
+  border-radius: 15px;
+  font-family:Book Antiqua;
+  }
+
+.b1:active {
+  background-color: #ccaabb;
+  transform: translateY(4px);
+}
+
+.b2{background-color:pink;
+  font-family:Book Antiqua;
+  display: inline-block;
+  padding: 9px 19px;
+  font-size: 30px;
+  text-align: center;
+  cursor: pointer;
+  color: white;
+  border:none;
+  
+  border-radius:10px;
+  }
+  
+#rounded{
+    border-radius: 25px;
+    border: 2px solid;
+    border-color: aquamarine;
+    
+    width: 500px;
+    height: 30px; 
+}
+
+#roundedsub{
+    border-radius: 25px;
+    border: 2px solid;
+    border-color: aquamarine;
+    
+    width: 500px;
+    height: 130px; 
+}
